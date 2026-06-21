@@ -1,0 +1,11 @@
+question,expected_answer
+"What architecture is the `tokenizers-linux-x64-musl` binary designed for?
+",x86_64-unknown-linux-musl
+"What is the purpose of the BLIP-Diffusion model?
+",The BLIP-Diffusion model is designed for controllable text-to-image generation and editing.
+"How can a user claim authorship of a paper on the Hugging Face Hub?
+","By clicking their name on the corresponding Paper page and clicking ""claim authorship"", then confirming the request in paper settings for admin team validation."
+"What is the purpose of the /healthcheck endpoint in the Datasets server API?
+",Ensure the app is running
+"What is the default context window size for Local Attention in the LongT5 model?
+",127 tokens
