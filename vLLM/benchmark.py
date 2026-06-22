@@ -4,7 +4,7 @@ from statistics import mean
 
 from openai import AsyncOpenAI
 
-MODEL = "meta-llama/Meta-Llama-3-8B-Instruct"
+MODEL = "meta-llama/Llama-3.2-3B-Instruct"
 
 CONCURRENCY_LEVELS = [1, 5, 10]
 ROUNDS = 3
