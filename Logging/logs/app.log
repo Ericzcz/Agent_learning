@@ -1,0 +1,27 @@
+{"asctime": "2026-06-30 10:23:47,919", "levelname": "DEBUG", "name": "my_app", "filename": "demo.py", "lineno": 30, "message": "debug only in file"}
+{"asctime": "2026-06-30 10:23:47,919", "levelname": "INFO", "name": "my_app", "filename": "demo.py", "lineno": 31, "message": "info in console and file"}
+{"asctime": "2026-06-30 10:23:47,919", "levelname": "ERROR", "name": "my_app", "filename": "demo.py", "lineno": 32, "message": "error in console and file"}
+{"asctime": "2026-06-30 10:23:47,919", "levelname": "ERROR", "name": "my_app", "filename": "demo.py", "lineno": 37, "message": "calculation failed", "exc_info": "Traceback (most recent call last):\n  File \"/Users/eric_zcz/Desktop/Eric_Project/agent/Logging/demo.py\", line 35, in <module>\n    1 / 0\n    ~~^~~\nZeroDivisionError: division by zero"}
+{"asctime": "2026-06-30 10:24:18,999", "levelname": "DEBUG", "name": "my_app", "filename": "demo.py", "lineno": 30, "message": "debug only in file"}
+{"asctime": "2026-06-30 10:24:18,999", "levelname": "INFO", "name": "my_app", "filename": "demo.py", "lineno": 31, "message": "info in console and file"}
+{"asctime": "2026-06-30 10:24:18,999", "levelname": "ERROR", "name": "my_app", "filename": "demo.py", "lineno": 32, "message": "error in console and file"}
+{"asctime": "2026-06-30 10:24:18,999", "levelname": "ERROR", "name": "my_app", "filename": "demo.py", "lineno": 37, "message": "calculation failed", "exc_info": "Traceback (most recent call last):\n  File \"/Users/eric_zcz/Desktop/Eric_Project/agent/Logging/demo.py\", line 35, in <module>\n    1 / 0\n    ~~^~~\nZeroDivisionError: division by zero"}
+{"asctime": "2026-06-30 10:28:11,837", "levelname": "DEBUG", "name": "my_app", "filename": "demo.py", "lineno": 30, "message": "debug only in file"}
+{"asctime": "2026-06-30 10:28:11,837", "levelname": "INFO", "name": "my_app", "filename": "demo.py", "lineno": 31, "message": "info in console and file"}
+{"asctime": "2026-06-30 10:28:11,837", "levelname": "ERROR", "name": "my_app", "filename": "demo.py", "lineno": 32, "message": "error in console and file"}
+{"asctime": "2026-06-30 10:28:11,837", "levelname": "ERROR", "name": "my_app", "filename": "demo.py", "lineno": 37, "message": "calculation failed", "exc_info": "Traceback (most recent call last):\n  File \"/Users/eric_zcz/Desktop/Eric_Project/agent/Logging/demo.py\", line 35, in <module>\n    1 / 0\n    ~~^~~\nZeroDivisionError: division by zero"}
+{"asctime": "2026-06-30 10:30:24,212", "levelname": "INFO", "name": "my_app", "filename": "demo.py", "lineno": 23, "message": "user login", "user_id": 123, "ip": "127.0.0.1"}
+{"asctime": "2026-06-30 10:30:24,212", "levelname": "DEBUG", "name": "my_app", "filename": "demo.py", "lineno": 30, "message": "debug only in file"}
+{"asctime": "2026-06-30 10:30:24,212", "levelname": "INFO", "name": "my_app", "filename": "demo.py", "lineno": 31, "message": "info in console and file"}
+{"asctime": "2026-06-30 10:30:24,212", "levelname": "ERROR", "name": "my_app", "filename": "demo.py", "lineno": 32, "message": "error in console and file"}
+{"asctime": "2026-06-30 10:30:24,212", "levelname": "ERROR", "name": "my_app", "filename": "demo.py", "lineno": 37, "message": "calculation failed", "exc_info": "Traceback (most recent call last):\n  File \"/Users/eric_zcz/Desktop/Eric_Project/agent/Logging/demo.py\", line 35, in <module>\n    1 / 0\n    ~~^~~\nZeroDivisionError: division by zero"}
+{"asctime": "2026-06-30 11:25:07,322", "levelname": "INFO", "name": "my_app", "filename": "demo.py", "lineno": 23, "message": "user login", "user_id": 123, "ip": "127.0.0.1"}
+{"asctime": "2026-06-30 11:25:07,322", "levelname": "DEBUG", "name": "my_app", "filename": "demo.py", "lineno": 30, "message": "debug only in file"}
+{"asctime": "2026-06-30 11:25:07,322", "levelname": "INFO", "name": "my_app", "filename": "demo.py", "lineno": 31, "message": "info in console and file"}
+{"asctime": "2026-06-30 11:25:07,323", "levelname": "ERROR", "name": "my_app", "filename": "demo.py", "lineno": 32, "message": "error in console and file"}
+{"asctime": "2026-06-30 11:25:07,323", "levelname": "ERROR", "name": "my_app", "filename": "demo.py", "lineno": 37, "message": "calculation failed", "exc_info": "Traceback (most recent call last):\n  File \"/Users/eric_zcz/Desktop/Eric_Project/agent/Logging/demo.py\", line 35, in <module>\n    1 / 0\n    ~~^~~\nZeroDivisionError: division by zero"}
+{"asctime": "2026-06-30 11:25:21,158", "levelname": "INFO", "name": "my_app", "filename": "demo.py", "lineno": 23, "message": "user login", "user_id": 123, "ip": "127.0.0.1"}
+{"asctime": "2026-06-30 11:25:21,159", "levelname": "DEBUG", "name": "my_app", "filename": "demo.py", "lineno": 30, "message": "debug only in file"}
+{"asctime": "2026-06-30 11:25:21,159", "levelname": "INFO", "name": "my_app", "filename": "demo.py", "lineno": 31, "message": "info in console and file"}
+{"asctime": "2026-06-30 11:25:21,159", "levelname": "ERROR", "name": "my_app", "filename": "demo.py", "lineno": 32, "message": "error in console and file"}
+{"asctime": "2026-06-30 11:25:21,159", "levelname": "ERROR", "name": "my_app", "filename": "demo.py", "lineno": 37, "message": "calculation failed", "exc_info": "Traceback (most recent call last):\n  File \"/Users/eric_zcz/Desktop/Eric_Project/agent/Logging/demo.py\", line 35, in <module>\n    1 / 0\n    ~~^~~\nZeroDivisionError: division by zero"}
